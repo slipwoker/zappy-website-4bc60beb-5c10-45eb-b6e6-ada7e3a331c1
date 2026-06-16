@@ -7,37 +7,37 @@
 ## Pages
 
 ### עיצוב וידאו גרפי שעוצר את הגלילה — MIRYAM – Visual Design &amp; Video Editing
-https://example.com
+https://miryam-visual-design-video-edi.zappy5.app
 סטודיו קריאייטיב עצמאי שממזג עיצוב גרפי, עריכת וידאו ובינה מלאכותית למיתוג דינמי וטיפוגרפיה קינטית. הפוך רעיונות לתוכן ויזואלי מהפנט שמותיר חותם.
 
 ### מעצבת גרפית עם חזון טכנולוגי נועז — MIRYAM – Visual Design &amp; Video Editing
-https://example.com/about
+https://miryam-visual-design-video-edi.zappy5.app/about
 הכירו את מירי, מומחית לעיצוב גרפי ועריכת וידאו שמשלבת כלים מתקדמים של AI עם תשוקה למיתוג ויזואלי. גלו את הסיפור מאחורי הסטודיו שמגדיר מחדש תוכן דיגיטלי.
 
 ### טיפוגרפיה בתנועה שמפיחה חיים בטקסט — MIRYAM – Visual Design &amp; Video Editing
-https://example.com/kinetic-typography
+https://miryam-visual-design-video-edi.zappy5.app/kinetic-typography
 הפכו מילים לחוויה ויזואלית עם טיפוגרפיה קינטית ועריכת וידאו גרפית שמותאמת למיתוג שלכם. אנימציות טקסט מדויקות שמושכות תשומת לב ומעבירות מסר בעוצמה.
 
 ### אמנות וידאו מבוססת AI שפורצת גבולות — MIRYAM – Visual Design &amp; Video Editing
-https://example.com/ai-video-art
+https://miryam-visual-design-video-edi.zappy5.app/ai-video-art
 גלו עולם של עריכת וידאו ויזואלית המשלבת בינה מלאכותית ליצירת תוכן היברידי עוצר נשימה. ממיתוג דינמי ועד אפקטים חזותיים, התוצאה היא אמנות דיגיטלית שמרעידה את הרשת.
 
 ### בואו נהפוך את הרעיון שלכם לוויזואלי מנצח — MIRYAM – Visual Design &amp; Video Editing
-https://example.com/contact
+https://miryam-visual-design-video-edi.zappy5.app/contact
 מוכנים לשדרג את המיתוג עם עיצוב גרפי ועריכת וידאו פורצת דרך? צרו קשר עוד היום והתחילו פרויקט קריאייטיב שמחבר בין חזון, טכנולוגיה ותוצאה סוחפת שלא תוכלו להתעלם ממנה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://miryam-visual-design-video-edi.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://miryam-visual-design-video-edi.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://miryam-visual-design-video-edi.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: ירושלים
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://miryam-visual-design-video-edi.zappy5.app/contact
+- Endpoint: https://miryam-visual-design-video-edi.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -88,6 +88,6 @@ Graphic Design & Video Editing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://miryam-visual-design-video-edi.zappy5.app/sitemap.xml
+- Robots: https://miryam-visual-design-video-edi.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://miryam-visual-design-video-edi.zappy5.app/llms-full.txt
