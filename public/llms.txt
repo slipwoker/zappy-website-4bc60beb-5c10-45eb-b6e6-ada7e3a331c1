@@ -1,0 +1,90 @@
+# MIRYAM – Visual Design & Video Editing — Generative Engine Optimization Map
+
+> MIRYAM is a creative solo studio run by Miri, a graphic designer and video editor who blends sharp design sensibility, deep marketing understanding, and cutting-edge AI tools. The studio specializes in kinetic typography, AI-powered video production, and static branding — all crafted to stop the scroll and leave a lasting impression. The brand voice is bold, dynamic, and forward-thinking, positioning itself at the intersection of artistry and next-generation technology. The portfolio site is structured to showcase distinct creative disciplines, from motion typography to hybrid AI animations.
+
+---
+
+## Pages
+
+### בית
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app
+סטודיו קריאייטיב עצמאי שממזג עיצוב גרפי, עריכת וידאו ובינה מלאכותית למיתוג דינמי וטיפוגרפיה קינטית. הפוך רעיונות לתוכן ויזואלי מהפנט שמותיר חותם.
+
+### אודות
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/about
+הכירו את מירי, מומחית לעיצוב גרפי ועריכת וידאו שמשלבת כלים מתקדמים של AI עם תשוקה למיתוג ויזואלי. גלו את הסיפור מאחורי הסטודיו שמגדיר מחדש תוכן דיגיטלי.
+
+### טיפוגרפיה קינטית
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/kinetic-typography
+הפכו מילים לחוויה ויזואלית עם טיפוגרפיה קינטית ועריכת וידאו גרפית שמותאמת למיתוג שלכם. אנימציות טקסט מדויקות שמושכות תשומת לב ומעבירות מסר בעוצמה.
+
+### וידאו ואמנות AI
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/ai-video-art
+גלו עולם של עריכת וידאו ויזואלית המשלבת בינה מלאכותית ליצירת תוכן היברידי עוצר נשימה. ממיתוג דינמי ועד אפקטים חזותיים, התוצאה היא אמנות דיגיטלית שמרעידה את הרשת.
+
+### צור קשר
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/contact
+מוכנים לשדרג את המיתוג עם עיצוב גרפי ועריכת וידאו פורצת דרך? צרו קשר עוד היום והתחילו פרויקט קריאייטיב שמחבר בין חזון, טכנולוגיה ותוצאה סוחפת שלא תוכלו להתעלם ממנה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/contact
+- Endpoint: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MIRYAM – Visual Design & Video Editing
+MIRYAM is a creative solo studio run by Miri, a graphic designer and video editor who blends sharp design sensibility, deep marketing understanding, and cutting-edge AI tools. The studio specializes in kinetic typography, AI-powered video production, and static branding — all crafted to stop the scroll and leave a lasting impression. The brand voice is bold, dynamic, and forward-thinking, positioning itself at the intersection of artistry and next-generation technology. The portfolio site is structured to showcase distinct creative disciplines, from motion typography to hybrid AI animations.
+
+## Services/Products
+- עיצוב גרפי ומיתוג
+- עריכת וידאו מתקדמת
+- עריכות טיפוגרפיה קינטית (Kinetic Typography)
+- עריכות וידאו מבוססות בינה מלאכותית (AI)
+- פתרונות ויזואליים שיווקיים
+
+## Target Audience
+- עסקים המחפשים שדרוג ויזואלי, הפקת סרטונים ופתרונות קריאייטיביים
+- עסקים המחפשים שדרוג ויזואלי
+- סוכנויות קריאייטיב לשיתוף פעולה
+- מותגי מסחר אלקטרוני עם צורך ויזואלי
+
+## Industry
+Graphic Design & Video Editing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/sitemap.xml
+- Robots: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/llms-full.txt
