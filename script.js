@@ -1463,6 +1463,46 @@ window.onload = function() {
 })();
 
 
+/* Added Component Script */
+// Optional: Intersection Observer for animation on scroll
+document.addEventListener('DOMContentLoaded', function() {
+  const cards = document.querySelectorAll('.gallery-card');
+  
+  if ('IntersectionObserver' in window) {
+    const observerOptions = {
+      root: null,
+      rootMargin: '0px 0px -50px 0px',
+      threshold: 0.1
+    };
+
+    const observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry, index) {
+        if (entry.isIntersecting) {
+          // Stagger animation
+          setTimeout(function() {
+            entry.target.style.opacity = '1';
+            entry.target.style.transform = 'translateY(0)';
+          }, index * 80);
+          observer.unobserve(entry.target);
+        }
+      });
+    }, observerOptions);
+
+    cards.forEach(function(card) {
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(30px)';
+      card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+      observer.observe(card);
+    });
+  } else {
+    // Fallback: show all cards immediately
+    cards.forEach(function(card) {
+      card.style.opacity = '1';
+    });
+  }
+});
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
