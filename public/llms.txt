@@ -6,23 +6,23 @@
 
 ## Pages
 
-### בית
+### עיצוב וידאו גרפי שעוצר את הגלילה — MIRYAM – Visual Design &amp; Video Editing
 https://example.com
 סטודיו קריאייטיב עצמאי שממזג עיצוב גרפי, עריכת וידאו ובינה מלאכותית למיתוג דינמי וטיפוגרפיה קינטית. הפוך רעיונות לתוכן ויזואלי מהפנט שמותיר חותם.
 
-### אודות
-https://example.com/about
-הכירו את מירי, מומחית לעיצוב גרפי ועריכת וידאו שמשלבת כלים מתקדמים של AI עם תשוקה למיתוג ויזואלי. גלו את הסיפור מאחורי הסטודיו שמגדיר מחדש תוכן דיגיטלי.
-
-### טיפוגרפיה קינטית
-https://example.com/kinetic-typography
-הפכו מילים לחוויה ויזואלית עם טיפוגרפיה קינטית ועריכת וידאו גרפית שמותאמת למיתוג שלכם. אנימציות טקסט מדויקות שמושכות תשומת לב ומעבירות מסר בעוצמה.
-
-### וידאו ואמנות AI
+### אמנות וידאו מבוססת AI שפורצת גבולות — MIRYAM – Visual Design &amp; Video Editing
 https://example.com/ai-video-art
 גלו עולם של עריכת וידאו ויזואלית המשלבת בינה מלאכותית ליצירת תוכן היברידי עוצר נשימה. ממיתוג דינמי ועד אפקטים חזותיים, התוצאה היא אמנות דיגיטלית שמרעידה את הרשת.
 
-### צור קשר
+### טיפוגרפיה בתנועה שמפיחה חיים בטקסט — MIRYAM – Visual Design &amp; Video Editing
+https://example.com/kinetic-typography
+הפכו מילים לחוויה ויזואלית עם טיפוגרפיה קינטית ועריכת וידאו גרפית שמותאמת למיתוג שלכם. אנימציות טקסט מדויקות שמושכות תשומת לב ומעבירות מסר בעוצמה.
+
+### מעצבת גרפית עם חזון טכנולוגי נועז — MIRYAM – Visual Design &amp; Video Editing
+https://example.com/about
+הכירו את מירי, מומחית לעיצוב גרפי ועריכת וידאו שמשלבת כלים מתקדמים של AI עם תשוקה למיתוג ויזואלי. גלו את הסיפור מאחורי הסטודיו שמגדיר מחדש תוכן דיגיטלי.
+
+### בואו נהפוך את הרעיון שלכם לוויזואלי מנצח — MIRYAM – Visual Design &amp; Video Editing
 https://example.com/contact
 מוכנים לשדרג את המיתוג עם עיצוב גרפי ועריכת וידאו פורצת דרך? צרו קשר עוד היום והתחילו פרויקט קריאייטיב שמחבר בין חזון, טכנולוגיה ותוצאה סוחפת שלא תוכלו להתעלם ממנה.
 
@@ -55,11 +55,11 @@ Information about WCAG compliance and accessibility features.
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text, required)
-  - `email` (email, required)
+  - `name` (text)
+  - `email` (email)
   - `phone` (tel)
-  - `message` (textarea, required)
-  - `privacy_consent` (checkbox, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
 
 ---
 
