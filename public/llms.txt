@@ -44,7 +44,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: m0556741398@gmail.com
+- Phone: +972556741398
+- Phone (tel): tel:+972556741398
+- Address: ירושלים
 
 ### Contact form
 - URL: https://example.com/contact
