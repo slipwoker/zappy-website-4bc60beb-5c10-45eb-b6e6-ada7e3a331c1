@@ -2,13 +2,13 @@
 
 MIRYAM is a creative solo studio run by Miri, a graphic designer and video editor who blends sharp design sensibility, deep marketing understanding, and cutting-edge AI tools. The studio specializes in kinetic typography, AI-powered video production, and static branding — all crafted to stop the scroll and leave a lasting impression. The brand voice is bold, dynamic, and forward-thinking, positioning itself at the intersection of artistry and next-generation technology. The portfolio site is structured to showcase distinct creative disciplines, from motion typography to hybrid AI animations.
 
-Source: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app
+Source: https://example.com
 
 ---
 
 ## עיצוב וידאו גרפי שעוצר את הגלילה — MIRYAM – Visual Design &amp; Video Editing
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app
+URL: https://example.com
 Description: סטודיו קריאייטיב עצמאי שממזג עיצוב גרפי, עריכת וידאו ובינה מלאכותית למיתוג דינמי וטיפוגרפיה קינטית. הפוך רעיונות לתוכן ויזואלי מהפנט שמותיר חותם.
 
 עיצוב וידאו גרפי שעוצר את הגלילה — MIRYAM – Visual Design & Video Editing
@@ -394,7 +394,7 @@ AI Production
 
 ## מעצבת גרפית עם חזון טכנולוגי נועז — MIRYAM – Visual Design &amp; Video Editing
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את מירי, מומחית לעיצוב גרפי ועריכת וידאו שמשלבת כלים מתקדמים של AI עם תשוקה למיתוג ויזואלי. גלו את הסיפור מאחורי הסטודיו שמגדיר מחדש תוכן דיגיטלי.
 
 מעצבת גרפית עם חזון טכנולוגי נועז — MIRYAM – Visual Design & Video Editing
@@ -690,7 +690,7 @@ MIRYAM עובדת כשותפה קרובה עם סוכנויות קריאייטי
 
 ## טיפוגרפיה בתנועה שמפיחה חיים בטקסט — MIRYAM – Visual Design &amp; Video Editing
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/kinetic-typography
+URL: https://example.com/kinetic-typography
 Description: הפכו מילים לחוויה ויזואלית עם טיפוגרפיה קינטית ועריכת וידאו גרפית שמותאמת למיתוג שלכם. אנימציות טקסט מדויקות שמושכות תשומת לב ומעבירות מסר בעוצמה.
 
 טיפוגרפיה בתנועה שמפיחה חיים בטקסט — MIRYAM – Visual Design & Video Editing
@@ -1019,7 +1019,7 @@ Description: הפכו מילים לחוויה ויזואלית עם טיפוגר
 
 ## אמנות וידאו מבוססת AI שפורצת גבולות — MIRYAM – Visual Design &amp; Video Editing
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/ai-video-art
+URL: https://example.com/ai-video-art
 Description: גלו עולם של עריכת וידאו ויזואלית המשלבת בינה מלאכותית ליצירת תוכן היברידי עוצר נשימה. ממיתוג דינמי ועד אפקטים חזותיים, התוצאה היא אמנות דיגיטלית שמרעידה את הרשת.
 
 אמנות וידאו מבוססת AI שפורצת גבולות — MIRYAM – Visual Design & Video Editing
@@ -1357,7 +1357,7 @@ Stylized Effects
 
 ## בואו נהפוך את הרעיון שלכם לוויזואלי מנצח — MIRYAM – Visual Design &amp; Video Editing
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים לשדרג את המיתוג עם עיצוב גרפי ועריכת וידאו פורצת דרך? צרו קשר עוד היום והתחילו פרויקט קריאייטיב שמחבר בין חזון, טכנולוגיה ותוצאה סוחפת שלא תוכלו להתעלם ממנה.
 
 בואו נהפוך את הרעיון שלכם לוויזואלי מנצח — MIRYAM – Visual Design & Video Editing
@@ -1697,7 +1697,7 @@ Description: מוכנים לשדרג את המיתוג עם עיצוב גרפי 
 
 ## מדיניות פרטיות
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1964,7 +1964,7 @@ MIRYAM – Visual Design & Video Editing ("החברה", "אנו", "שלנו") מ
 
 ## הצהרת נגישות
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2240,7 +2240,7 @@ MIRYAM – Visual Design & Video Editing מחויבת להנגיש את השיר
 
 ## תנאי שימוש
 
-URL: https://miryam-visual-design-video-editing-4bc60beb.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
